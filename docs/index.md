@@ -28,6 +28,11 @@ Modding the game typically involves either using the Survivalcraft API client, o
 
 </div>
 
+## Mission
+Survivalcraft has a small but dedicated community of players and tinkerers who want to push the game beyond its defaults with custom textures, new mechanics, multiplayer tooling, and more. However, the game ships with no official modding documentation, leaving would-be modders to reverse-engineer everything from scratch.
+
+This site exists to change that. It will centralize what the community has learned through decompilation, experimentation, and collaboration, covering everything from plugin development with the Survivalcraft API to low-level internals like the world format, shader pipeline, and content packages.
+
 ## Todo
 
 > We have a lot of work to do. Please consider contributing to this project
@@ -45,5 +50,8 @@ Modding the game typically involves either using the Survivalcraft API client, o
 * [ ] MOTD format documentation
 * [ ] `BlocksData.txt` documentation
 * [ ] `Database.xml` detailed documentation
+* [ ] Crafting recipes documentation
 * [ ] World format documentation
 * [ ] Furniture format documentation
+* [ ] Terrain generator documentation
+* [ ] Development enviroment setup
