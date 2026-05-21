@@ -22,7 +22,7 @@ Modding the game typically involves either using the Survivalcraft API client, o
 
     ---
 
-    Install [Survivalcraft API Mod Client](Survivalcraft API/index.md) from the official Gitee Repository.
+    Install the __Survivalcraft API Mod Client__ from the official Gitee Repository.
 
     [:octicons-arrow-right-24: Get the API](Survivalcraft API/index.md)
 
