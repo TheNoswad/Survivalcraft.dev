@@ -10,6 +10,14 @@ Modding the game typically involves either using the Survivalcraft API client, o
 
 <div class="grid cards" markdown>
 
+-   :lucide-circle-dollar-sign:{ .lg .middle } __Buy the Game__
+
+    ---
+
+    Download __Survivalcraft__ from the Microsoft Store, App Store, Google Play, and Amazon.
+
+    [:octicons-arrow-right-24: Get the Game](Get the Game.md)
+
 -   :lucide-box:{ .lg .middle } __Download the Survivalcraft API__
 
     ---
@@ -25,6 +33,14 @@ Modding the game typically involves either using the Survivalcraft API client, o
     Decompile the game using ILSpy or other tools
 
     [:octicons-arrow-right-24: Decompiling Survivalcraft](Decompiling the Game.md)
+
+-   :material-hammer-screwdriver:{ .lg .middle } __Browse Technical Documentation (Coming Soon)__
+
+    ---
+
+    Browse technical documentation for Survivalcraft
+
+    [:octicons-arrow-right-24: Technical Documentation](Technical Documentation/index.md)
 
 </div>
 
