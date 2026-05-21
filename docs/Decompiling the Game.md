@@ -1,3 +1,7 @@
+---
+icon: lucide/pocket-knife
+---
+
 # Decompiling Survivalcraft
 Decompiling Survivalcraft is a relatively simple process. This process involves obtaining the game from official sources and using .NET disassembly tools to yield a .NET solution. After patching any missing or platform specific code, the solution can be compiled successfully and any modifications can be made.
 
@@ -52,4 +56,4 @@ Next, select assemblies `Survivalcraft`, `Engine`, and `EntitySystem` from the a
 
 ILSpy will then decompile and save all code and resources, including a Visual Studio solution.
 
-## Patching 
+## Patching
