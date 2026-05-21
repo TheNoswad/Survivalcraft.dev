@@ -13,7 +13,7 @@ icon: lucide/circle-dollar-sign
 
     Download Survivalcraft for Windows and Xbox
 
-    [:octicons-arrow-right-24: Get it on Microsoft Store](#)
+    [:octicons-arrow-right-24: Get it on Microsoft Store](https://apps.microsoft.com/detail/9wzdncrfhvnl)
 
 -   :fontawesome-brands-apple:{ .lg .middle } __App Store__
     
@@ -21,14 +21,14 @@ icon: lucide/circle-dollar-sign
 
     Download Survivalcraft for iPhone and iPad
 
-    [:octicons-arrow-right-24: Get it on the App Store](#)
+    [:octicons-arrow-right-24: Get it on the App Store](https://apps.apple.com/us/app/survivalcraft/id622613679)
 
 -   :fontawesome-brands-google-play:{ .lg .middle } __Google Play__
 
     ---
 
     Download Survivalcraft for Android
-    [:octicons-arrow-right-24: Get it on Google Play](#)
+    [:octicons-arrow-right-24: Get it on Google Play](https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft)
 
 -   :fontawesome-brands-amazon:{ .lg .middle } __Amazon Appstore__
 
@@ -36,7 +36,7 @@ icon: lucide/circle-dollar-sign
     ---
 
     Download Survivalcraft for Kindle and Fire devices
-    [:octicons-arrow-right-24: Get it on Amazon Appstore](#)
+    [:octicons-arrow-right-24: Get it on Amazon Appstore](https://www.amazon.com/Candy-Rufus-Games-Survivalcraft/dp/B009ZKSPDK)
 
 </div>
 
@@ -51,7 +51,7 @@ icon: lucide/circle-dollar-sign
 
     ---
 
-    Download Survivalcraft for Windows and Xbox
+    Download Survivalcraft 2 for Windows and Xbox
 
     [:octicons-arrow-right-24: Get it on Microsoft Store](https://apps.microsoft.com/detail/9phc48p58nb2)
 
@@ -59,7 +59,7 @@ icon: lucide/circle-dollar-sign
     
     ---
 
-    Download Survivalcraft for iPhone and iPad
+    Download Survivalcraft 2 for iPhone and iPad
 
     [:octicons-arrow-right-24: Get it on the App Store](https://apps.apple.com/us/app/survivalcraft-2/id1185580782)
 
@@ -67,7 +67,7 @@ icon: lucide/circle-dollar-sign
 
     ---
 
-    Download Survivalcraft for Android
+    Download Survivalcraft 2 for Android
     [:octicons-arrow-right-24: Get it on Google Play](https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2)
 
 -   :fontawesome-brands-amazon:{ .lg .middle } __Amazon Appstore__
@@ -75,7 +75,7 @@ icon: lucide/circle-dollar-sign
 
     ---
 
-    Download Survivalcraft for Kindle and Fire devices
+    Download Survivalcraft 2 for Kindle and Fire devices
     [:octicons-arrow-right-24: Get it on Amazon Appstore](https://www.amazon.com/dp/B01N6GTF7M)
 
 </div>
