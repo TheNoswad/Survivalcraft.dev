@@ -2,7 +2,7 @@
 icon: lucide/rocket
 ---
 
-# Welcome!
+# Home
 
 Survivalcraft is a 3D voxel game written in C#. Initially it used the MonoGame Game Engine, but the developer later switched to his own engine which seems similar to MonoGame. This new engine, named "Engine" uses OpenTK graphics backend on iOS and Android, and SharpDX on Windows and Windows Phone.
 
@@ -14,9 +14,9 @@ Modding the game typically involves either using the Survivalcraft API client, o
 
     ---
 
-    Install [Survivalcraft API Mod Client](#) from the official Gitee Repository.
+    Install [Survivalcraft API Mod Client](Survivalcraft API Mod Client.md) from the official Gitee Repository.
 
-    [:octicons-arrow-right-24: Get the API](#)
+    [:octicons-arrow-right-24: Get the API](Survivalcraft API Mod Client.md)
 
 -   :material-hammer-screwdriver:{ .lg .middle } __Decompile the Game__
 
@@ -24,7 +24,7 @@ Modding the game typically involves either using the Survivalcraft API client, o
 
     Decompile the game using ILSpy or other tools
 
-    [:octicons-arrow-right-24: Decompiling Survivalcraft](#)
+    [:octicons-arrow-right-24: Decompiling Survivalcraft](Decompiling the Game.md)
 
 </div>
 

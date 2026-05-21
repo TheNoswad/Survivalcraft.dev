@@ -32,14 +32,14 @@ site_dir = "site"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "http://localhost:8000/en/"
+site_url = "https://survivalcraft.dev/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 The authors
+CC BY-SA 4.0
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
