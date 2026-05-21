@@ -30,7 +30,7 @@ In the past AvaloniaILSpy would have been used on linux, but that version of ILS
 
 ## Extract the game files
 ### Microsoft Store
-Download the latest release using a website such as [DanStore](https://danstore-ms.vercel.app/), [store.rg](https://store.rg-adguard.net/), or [StoreWeb](https://msft-store.tplant.com.au/).
+Download the APPX package of the latest release using a website such as [DanStore](https://danstore-ms.vercel.app/), [store.rg](https://store.rg-adguard.net/), or [StoreWeb](https://msft-store.tplant.com.au/).
 
 <div style="text-align: center;" markdown>
 ## Official game links for Microsoft Store
