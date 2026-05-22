@@ -4,6 +4,11 @@ icon: lucide/rocket
 
 # Home
 
+Survivalcraft has a small but dedicated community of players and tinkerers who want to push the game beyond its defaults with custom textures, new mechanics, multiplayer tooling, and more. However, the game ships with no official modding documentation, leaving would-be modders to reverse-engineer everything from scratch.
+
+This site exists to change that. It will centralize what the community has learned through decompilation, experimentation, and collaboration, covering everything from plugin development with the Survivalcraft API to low-level internals like the world format, shader pipeline, and content packages.
+
+## The Game
 Survivalcraft is a 3D voxel game written in C#. Initially it used the MonoGame Game Engine, but the developer later switched to his own engine which seems similar to MonoGame. This new engine, named "Engine" uses OpenTK graphics backend on iOS and Android, and SharpDX on Windows and Windows Phone.
 
 Modding the game typically involves either using the Survivalcraft API client, or modifying the source directly and redistributing the entire game from build artifacts.
@@ -43,11 +48,6 @@ Modding the game typically involves either using the Survivalcraft API client, o
     [:octicons-arrow-right-24: Technical Documentation](Technical Documentation/index.md)
 
 </div>
-
-## Mission
-Survivalcraft has a small but dedicated community of players and tinkerers who want to push the game beyond its defaults with custom textures, new mechanics, multiplayer tooling, and more. However, the game ships with no official modding documentation, leaving would-be modders to reverse-engineer everything from scratch.
-
-This site exists to change that. It will centralize what the community has learned through decompilation, experimentation, and collaboration, covering everything from plugin development with the Survivalcraft API to low-level internals like the world format, shader pipeline, and content packages.
 
 ## Todo
 
