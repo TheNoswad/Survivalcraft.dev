@@ -33,16 +33,25 @@ Download the latest version of the Survivalcraft API client from [Releases the S
 The client currently officially supports Windows, Linux, and Android operating systems.
 
 ### Windows
-Extract the stuff
+1. Download and install `.NET Runtime 10` from [Microsoft's official website](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
+2. Extract the latest Linux release from the Survivalcraft API Gitee Repository.
+3. Run `Survivalcraft.exe` from the extracted files.
 
 ### Linux
-Extract the latest Linux release from the Survivalcraft API Gitee Repository. Bla bla
+1. Download and install `.NET Runtime 10` for Linux from [Microsoft's official website](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
+2. Extract the latest Linux release from the Survivalcraft API Gitee Repository.
+3. Run the Survivalcraft executable.
 
 #### Fedora
-bla
+todo
 
 #### Debian
-woah debian
+todo
 
 #### Android
-Download the latest APK from releases. Install the APK.
+1. Download the latest APK from releases.
+2. Install the APK.
+3. Open the (insert app name) app.
+
+### Web Verison
+A impressive web port of the Survivalcraft API is available [here](https://scapiweb.netlify.app/)
