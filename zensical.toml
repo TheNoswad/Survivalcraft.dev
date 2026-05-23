@@ -316,9 +316,31 @@ toggle.name = "Switch to dark mode"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/discord"
+link = "https://discord.gg/VqRf37BYkw"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/wordpress"
+link = "https://kaalus.wordpress.com"
+
+[[project.extra.social]]
+icon = "fontawesome/solid/comment"
+link = "https://www.tapatalk.com/groups/survivalcraft/"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/youtube"
+link = "https://www.youtube.com/user/kaalus"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/x-twitter"
+link = "http://twitter.com/#!/CandyRufusGames"
+
+[[project.extra.social]]
+icon = "simple/fandom"
+link = "https://survivalcraftgame.fandom.com/wiki/SurvivalCraft_Wiki"
+
+
 
 #alternate = [
 #    { name = "English", link = "/en/", lang = "en" },
