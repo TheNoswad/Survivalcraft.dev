@@ -1,7 +1,3 @@
----
-icon: lucide/rocket
----
-
 # Create a component that sends messages to the Game's console
 
 In this section you can see a simple example of a component that you can add to the player to send messages to the Survivalcraft
