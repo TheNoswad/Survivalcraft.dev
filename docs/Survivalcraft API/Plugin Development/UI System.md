@@ -614,7 +614,7 @@ flowchart TD
     D -->|Yes| E[size = ParentDesiredSize]
     D -->|No| F[size = ActualSize - Position]
     
-    E --> G[Arrange(Position, size)]
+    E --> G["Arrange(Position, size)"]
     F --> G
     
     C -->|No| H[ArrangeChildWidgetInCell<br/>using default alignment]
