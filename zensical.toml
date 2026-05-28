@@ -329,6 +329,10 @@ icon = "fontawesome/solid/comment"
 link = "https://www.tapatalk.com/groups/survivalcraft/"
 
 [[project.extra.social]]
+icon = "fontawesome/brands/discourse"
+link = "https://survivalcraft.forum/"
+
+[[project.extra.social]]
 icon = "fontawesome/brands/youtube"
 link = "https://www.youtube.com/user/kaalus"
 
